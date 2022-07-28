@@ -1,0 +1,32 @@
+.main {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.decoder {
+  padding: 1rem 2rem;
+}
+
+.decoder--text-input {
+  width: 50rem;
+  height: 2rem;
+  font-size: 1rem;
+  margin-right: 0.5rem;
+}
+
+.decoder--err-msg {
+  margin: 0.25rem 0rem 1rem 0.25rem;
+  height: 1.25rem;
+  font-size: 0.75rem;
+}
+
+.decoder ul {
+  margin: 0.5rem 0rem;
+}
+
+.decoder ul.odd {
+  list-style-type: circle;
+}
